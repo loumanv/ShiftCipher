@@ -1,0 +1,269 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* ShiftCipherAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {942, 551}}";
+			sepNavSelRange = "{0, 518}";
+			sepNavVisRange = "{0, 518}";
+		};
+	};
+	1D3623250D0F684500981E51 /* ShiftCipherAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {942, 1235}}";
+			sepNavSelRange = "{570, 0}";
+			sepNavVisRange = "{0, 1366}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* ShiftCipher */ = {
+		activeExec = 0;
+		executables = (
+			495C2487145A00EE00DFBD1D /* ShiftCipher */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* ShiftCipherViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {942, 551}}";
+			sepNavSelRange = "{0, 644}";
+			sepNavVisRange = "{0, 644}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* ShiftCipherViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {942, 936}}";
+			sepNavSelRange = "{995, 0}";
+			sepNavVisRange = "{573, 852}";
+			sepNavWindowFrame = "{{349, 206}, {750, 558}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 495C2487145A00EE00DFBD1D /* ShiftCipher */;
+		activeSDKPreference = iphoneos4.3;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* ShiftCipher */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* ShiftCipher */,
+		);
+		codeSenseManager = 495C2492145A010E00DFBD1D /* Code sense */;
+		executables = (
+			495C2487145A00EE00DFBD1D /* ShiftCipher */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					779,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 347404346;
+			PBXWorkspaceStateSaveDate = 347404346;
+		};
+		perUserProjectItems = {
+			495C2617145C124900DFBD1D = 495C2617145C124900DFBD1D /* PBXTextBookmark */;
+			495C2619145C124900DFBD1D = 495C2619145C124900DFBD1D /* PBXTextBookmark */;
+			49A8EFE3145C7BB6006A3444 = 49A8EFE3145C7BB6006A3444 /* PBXTextBookmark */;
+			49ACE9DE145DD9AE00C4651F = 49ACE9DE145DD9AE00C4651F /* PBXTextBookmark */;
+			49ACE9DF145DD9AE00C4651F = 49ACE9DF145DD9AE00C4651F /* PBXTextBookmark */;
+			49ACE9E0145DD9AE00C4651F = 49ACE9E0145DD9AE00C4651F /* PBXTextBookmark */;
+			49ACE9E2145DD9AE00C4651F = 49ACE9E2145DD9AE00C4651F /* PBXTextBookmark */;
+			49E73DF2146BCDE300BF0610 = 49E73DF2146BCDE300BF0610 /* PBXTextBookmark */;
+			49ECF83C145E07A800439E63 = 49ECF83C145E07A800439E63 /* PBXTextBookmark */;
+			49ECF83E145E07A800439E63 = 49ECF83E145E07A800439E63 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 495C2491145A010E00DFBD1D /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	495C2487145A00EE00DFBD1D /* ShiftCipher */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = ShiftCipher;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	495C2491145A010E00DFBD1D /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	495C2492145A010E00DFBD1D /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	495C2495145A022A00DFBD1D /* ShiftCipherModel.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {942, 574}}";
+			sepNavSelRange = "{0, 470}";
+			sepNavVisRange = "{0, 470}";
+		};
+	};
+	495C2496145A022A00DFBD1D /* ShiftCipherModel.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {942, 1196}}";
+			sepNavSelRange = "{0, 2448}";
+			sepNavVisRange = "{1299, 1149}";
+		};
+	};
+	495C2617145C124900DFBD1D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 495C2618145C124900DFBD1D /* NSAttributedString.h */;
+		name = "NSAttributedString.h: 27";
+		rLen = 38;
+		rLoc = 981;
+		rType = 0;
+		vrLen = 1824;
+		vrLoc = 0;
+	};
+	495C2618145C124900DFBD1D /* NSAttributedString.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = NSAttributedString.h;
+		path = /Developer/developer3.2.6/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSAttributedString.h;
+		sourceTree = "<absolute>";
+	};
+	495C2619145C124900DFBD1D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 495C261A145C124900DFBD1D /* NSString.h */;
+		name = "NSString.h: 278";
+		rLen = 80;
+		rLoc = 17520;
+		rType = 0;
+		vrLen = 2972;
+		vrLoc = 16174;
+	};
+	495C261A145C124900DFBD1D /* NSString.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = NSString.h;
+		path = /Developer/developer3.2.6/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h;
+		sourceTree = "<absolute>";
+	};
+	49A8EFE3145C7BB6006A3444 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 49A8EFE4145C7BB6006A3444 /* NSString.h */;
+		name = "NSString.h: 339";
+		rLen = 7;
+		rLoc = 21340;
+		rType = 0;
+		vrLen = 2952;
+		vrLoc = 19724;
+	};
+	49A8EFE4145C7BB6006A3444 /* NSString.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = NSString.h;
+		path = /Developer/developer3.2.6/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h;
+		sourceTree = "<absolute>";
+	};
+	49ACE9DE145DD9AE00C4651F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 495C2495145A022A00DFBD1D /* ShiftCipherModel.h */;
+		name = "ShiftCipherModel.h: 1";
+		rLen = 470;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 470;
+		vrLoc = 0;
+	};
+	49ACE9DF145DD9AE00C4651F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 495C2496145A022A00DFBD1D /* ShiftCipherModel.m */;
+		name = "ShiftCipherModel.m: 1";
+		rLen = 2448;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1149;
+		vrLoc = 1299;
+	};
+	49ACE9E0145DD9AE00C4651F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* ShiftCipherViewController.h */;
+		name = "ShiftCipherViewController.h: 1";
+		rLen = 644;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 644;
+		vrLoc = 0;
+	};
+	49ACE9E2145DD9AE00C4651F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* ShiftCipherAppDelegate.h */;
+		name = "ShiftCipherAppDelegate.h: 1";
+		rLen = 518;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 518;
+		vrLoc = 0;
+	};
+	49E73DF2146BCDE300BF0610 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* ShiftCipherViewController.m */;
+		name = "ShiftCipherViewController.m: 49";
+		rLen = 0;
+		rLoc = 995;
+		rType = 0;
+		vrLen = 852;
+		vrLoc = 573;
+	};
+	49ECF83C145E07A800439E63 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* ShiftCipherAppDelegate.m */;
+		name = "ShiftCipherAppDelegate.m: 24";
+		rLen = 0;
+		rLoc = 570;
+		rType = 0;
+		vrLen = 1366;
+		vrLoc = 0;
+	};
+	49ECF83E145E07A800439E63 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* ShiftCipherViewController.m */;
+		name = "ShiftCipherViewController.m: 49";
+		rLen = 0;
+		rLoc = 995;
+		rType = 0;
+		vrLen = 852;
+		vrLoc = 573;
+	};
+}
